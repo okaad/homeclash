@@ -13,7 +13,7 @@ DOMAIN-KEYWORD,baidu
 IP-CIDR,219.146.1.66/32,no-resolve
 
 # 谷歌商店修复
-DOMAIN-KEYWORD,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # emby直连
 DOMAIN-SUFFIX,staryuki
