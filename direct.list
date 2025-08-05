@@ -12,6 +12,10 @@ DOMAIN-KEYWORD,baidu
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
+# 谷歌商店下载修复
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
 # emby直连
 DOMAIN-SUFFIX,staryuki
 DOMAIN-SUFFIX,pemby
